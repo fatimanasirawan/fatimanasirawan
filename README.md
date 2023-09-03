@@ -1,4 +1,4 @@
-![logo](https://github.com/fatimanasirawan/fatimanasirawan/blob/main/Banner.mp4)
+![logo](https://github.com/fatimanasirawan/fatimanasirawan/blob/main/banner.JPG)
 
 <h1 align="center">Hi 👋, I'm Fatima Nasir Awan</h1>
 <h3 align="center">A passionate frontend and Word[Press web developer</h3>
