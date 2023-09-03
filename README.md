@@ -1,7 +1,7 @@
 ![logo](https://github.com/fatimanasirawan/fatimanasirawan/blob/main/banner.JPG)
 
 <h1 align="center">Hi 👋, I'm Fatima Nasir Awan</h1>
-<h3 align="center">A passionate frontend and Word[Press web developer</h3>
+<h3 align="center">A passionate frontend and WordPress web developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimanasirawan&label=Profile%20views&color=0e75b6&style=flat" alt="fatimanasirawan" /> </p>
